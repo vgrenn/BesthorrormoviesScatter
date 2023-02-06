@@ -1,5 +1,5 @@
 # Scatter Plot Horror Movies
-I made a bar chart ranking 200 horror movies!
+I made a scatter plot ranking 200 horror movies!
 
 ## Analysis
 I made a bar chart comparing 200 horror movies ratings and only a few got a 100% rating. Not one went under 70%.
