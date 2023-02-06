@@ -2,7 +2,7 @@
 I made a scatter plot ranking 200 horror movies!
 
 ## Analysis
-I made a bar chart comparing 200 horror movies ratings and only a few got a 100% rating. Not one went under 70%.
+I made a scatter plot comparing 200 horror movies ratings and only a few got a 100% rating. Not one went under 70%.
 
 ## Making Changes
 1. All Data comes from https://www.kaggle.com/datasets/burlagaddashyam/200-best-horror-movierotten-tomatoes
